@@ -18,4 +18,22 @@ Model training and accuracy evaluation
 
 # DATASET
 
-the dataset is from: 
+the dataset is from: https://github.com/Ranhita/Prodigy_DS_03/blob/main/bank-additional.csv
+
+# Tools Used
+
+1. Jupyter Notebook
+2. Pandas
+3. Numpy
+4. Microsoft Excel
+5. Matplotlib and Seaborn for Data Visualization
+6. Sklearn
+
+# Exploratory Data Analysis(EDA)
+1.Data Cleaning
+2.Visualization
+
+# Contact
+
+Ranhita Bhuvanagiri (Via LinkedIn)
+ranhitabhuvanagiri@gmail.com (Via Gmail)
